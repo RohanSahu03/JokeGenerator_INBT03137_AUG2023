@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/JokeGenerator_INBT03137_AUG2023/static/css/main.d238621e.css",
+    "main.js": "/JokeGenerator_INBT03137_AUG2023/static/js/main.219d5d28.js",
+    "static/js/787.0cd5ea9b.chunk.js": "/JokeGenerator_INBT03137_AUG2023/static/js/787.0cd5ea9b.chunk.js",
+    "static/media/laughing.jpg": "/JokeGenerator_INBT03137_AUG2023/static/media/laughing.3a746bd9c0ce759299a3.jpg",
+    "static/media/logo.svg": "/JokeGenerator_INBT03137_AUG2023/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/JokeGenerator_INBT03137_AUG2023/index.html",
+    "main.d238621e.css.map": "/JokeGenerator_INBT03137_AUG2023/static/css/main.d238621e.css.map",
+    "main.219d5d28.js.map": "/JokeGenerator_INBT03137_AUG2023/static/js/main.219d5d28.js.map",
+    "787.0cd5ea9b.chunk.js.map": "/JokeGenerator_INBT03137_AUG2023/static/js/787.0cd5ea9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d238621e.css",
+    "static/js/main.219d5d28.js"
+  ]
+}
